@@ -2,7 +2,7 @@
 /*CSS Document */
 
 body {
-	font-family : Tahoma, Geneva, sans-serif;
+	font-family : Lucida, Geneva, sans-serif;
 	font-size : 12px;
 	background-color : #eee;
 	margin : 0;
@@ -53,7 +53,7 @@ table, th, td {
 	margin: auto;
 	border-collapse : collapse;
 	border : 1px solid #999;
-	box-shadow: darkgrey 3px;
+	box-shadow: darkgrey 4px;
 }
 
 	.table th {
@@ -75,7 +75,7 @@ error {
 ok {
 	border : 1px solid #80FF80;
 	background-color : #CFC;
-	padding : 3px;
-	margin : 5px 0px;
+	padding : 4px;
+	margin : 10px 0px;
 	text-align : center;
 }
